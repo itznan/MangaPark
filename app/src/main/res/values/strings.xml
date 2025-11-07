@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MangaPark Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_loading">Error loading page. Please check your internet connection and try again.</string>
+    <string name="no_internet">No internet connection. Some features may be limited.</string>
+    <string name="exit_message">Press back again to exit</string>
+    <string name="loading">Loading…</string>
+    <string name="reload">Reload</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="refresh">Refresh</string>
+</resources>
